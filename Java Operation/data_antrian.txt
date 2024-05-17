@@ -1,0 +1,2 @@
+Nomor Antrian: 1, Nama: nama, Usia: 7
+Nomor Antrian: 2, Nama: name, Usia: 69
