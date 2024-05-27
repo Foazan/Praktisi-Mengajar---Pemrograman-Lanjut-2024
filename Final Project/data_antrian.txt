@@ -1,4 +1,0 @@
-Nomor Antrian: 1, Nama: Sung Jin Woo, No. Telp: 08818875161, Alamat: Seoul, Tanggal: 2024-05-27 23:54:03
-Nomor Antrian: 2, Nama: Gojo Satoru, No. Telp: 0987362748, Alamat: SMA Jujutsu Tokyo, Tanggal: 2024-05-27 23:54:40
-Nomor Antrian: 3, Nama: Rimuru Tempest, No. Telp: -, Alamat: Jura Tempest Kingdom, Tanggal: 2024-05-27 23:56:08
-Nomor Antrian: 4, Nama: Eren Yeager, No. Telp: 1111111, Alamat: Distrik Shiganshina, Dinding Maria, Paradise, Tanggal: 2024-05-27 23:57:22
